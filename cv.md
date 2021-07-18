@@ -58,8 +58,7 @@ border: 1px solid #ccc;">
 <li>Stavropol Olympic Reserve School, teacher of physics and astronomy, 2020 - present.</li>
 </ul>
 ### Education:
-<ul><li>North Caucasus Federal University, Institute of Mathematics and Natural Science, Condensed Matter Physics, Russian Federation, Stavropol 2014-2018, Bachelor.</li>
+<ul> <li>North Caucasus Federal University, Institute of Mathematics and Natural Science, Condensed Matter Physics, Russian Federation, Stavropol 2014-2018, Bachelor.</li>
 <li>North Caucasus Federal University, Institute of Mathematics and Natural Science, Pedagogical Education, Russian Federation, Stavropol, 2018-2020, Master.</li>
- </ul>
- 
- ### English level: A1
+</ul>
+### English level: A1
