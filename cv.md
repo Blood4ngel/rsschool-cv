@@ -52,3 +52,13 @@ border: 1px solid #ccc;">
 </aside>
 </xmp>
 </div>
+### Work experience:
+<ul> <li>"CRM-solution", Krasnodar, business analyst, 2018 -2019. </li>
+<li>Centr Sovremennoy Stomatologii, Stavropol, CEO 2019-2020</li>
+<li>Stavropol Olympic Reserve School, teacher of physics and astronomy. 2020 - present.</li>
+</ul>
+### Education:
+<ul><li>North Caucasus Federal University, Institute of Mathematics and Natural Science, Condensed Matter Physics, Russian Federation, Stavropol 2014-2018, Bachelor.</li>
+<li>North Caucasus Federal University, Institute of Mathematics and Natural Science, Pedagogical Education, Russian Federation, Stavropol, 2018-2020, Master.</li>
+ </ul>
+ ### English level: A1
