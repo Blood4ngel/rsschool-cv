@@ -7,7 +7,12 @@
 ### Technical skills:
 <ul><li>Experience with MySQL databases</li> <li>Using notations for describing UML business processes</li> <li>Knowledge of the basics of building a LAN, the principles of operation of network equipment, network technologies, basic knowledge of the basics of computer networks and routing</li> <li>Experience in administering Windows 8, 10 operating systems and Microsoft Office</li> <li>Knowledge of the principles of work of client-server applications</li> <li>Documenting requirements for information systems.</li> </ul> 
 ### Sample code:
-<code><header>
+<div stile="overflow: auto;
+height: 80px;
+width: 450px;
+padding: 8px;
+border: 1px solid #ccc;">
+<xmp><header>
 <img src="/logo.png" alt="logo">
 <nav>
   <ul>
@@ -45,4 +50,5 @@
   </ul>
   </nav>
 </aside>
-</code>
+</xmp>
+</div>
