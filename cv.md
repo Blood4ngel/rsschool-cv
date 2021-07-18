@@ -1,1 +1,2 @@
-# Artem Yaroshevich
+## Artem Yaroshevich
+### Contacts for communication: +7(928)009-38-82; konovalov.arti@yandex.ru
