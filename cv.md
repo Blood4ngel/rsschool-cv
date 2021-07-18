@@ -54,7 +54,7 @@ border: 1px solid #ccc;">
 </div>
 ### Work experience:
 <ul> <li>"CRM-solution", Krasnodar, business analyst, 2018 -2019. </li>
-<li>Centr Sovremennoy Stomatologii, Stavropol, CEO 2019-2020</li>
+<li>"Centr Sovremennoy Stomatologii", Stavropol, CEO 2019-2020</li>
 <li>Stavropol Olympic Reserve School, teacher of physics and astronomy. 2020 - present.</li>
 </ul>
 ### Education:
