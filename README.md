@@ -1,1 +1,1 @@
-https://blood4ngel.github.io/rsschool-cv/cv
+https://blood4ngel.github.io/rsschool-cv/
